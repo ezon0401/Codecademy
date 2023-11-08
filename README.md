@@ -1,2 +1,0 @@
-# Codecademy
-Codes for CodeCademy 
