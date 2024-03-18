@@ -1,2 +1,0 @@
-# Codecademy
-Codecademy Toy Projects
